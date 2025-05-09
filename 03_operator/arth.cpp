@@ -22,7 +22,7 @@ int main () {
         discountPrice = totalPrice - (totalPrice * 0.05);
         cout << "Discounted price:" << discountPrice << endl;
         return 0;
-
+        
     }else{
         cout << "Total Price is:" << totalPrice;
     }

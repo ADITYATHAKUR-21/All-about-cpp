@@ -20,6 +20,6 @@ int main (){
         cout << "NO BADGE" << endl;
 
     }
-    
+ 
     return 0;
 }

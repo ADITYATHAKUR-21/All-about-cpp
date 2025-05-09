@@ -14,9 +14,9 @@ int main (){
         teaBags += 5;
         cout << "Total bags are : "  << teaBags;
         return 0;
-        
+
     }
     cout << "Total bags are " << teaBags;
-    
+
     return 0;
 }

@@ -18,6 +18,6 @@ int main (){
         cout << "You not elegibl for the discount" << endl;
 
     }
-    
+
     return 0;
 }
